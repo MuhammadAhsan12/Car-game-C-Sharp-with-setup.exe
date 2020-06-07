@@ -1,0 +1,8 @@
+c:\users\ahsan\documents\visual studio 2015\Projects\game\game\bin\Debug\game.exe.config
+c:\users\ahsan\documents\visual studio 2015\Projects\game\game\obj\Debug\game.Properties.Resources.resources
+c:\users\ahsan\documents\visual studio 2015\Projects\game\game\obj\Debug\game.csproj.GenerateResource.Cache
+c:\users\ahsan\documents\visual studio 2015\Projects\game\game\bin\Debug\game.exe
+c:\users\ahsan\documents\visual studio 2015\Projects\game\game\bin\Debug\game.pdb
+c:\users\ahsan\documents\visual studio 2015\Projects\game\game\obj\Debug\game.exe
+c:\users\ahsan\documents\visual studio 2015\Projects\game\game\obj\Debug\game.pdb
+c:\users\ahsan\documents\visual studio 2015\Projects\game\game\obj\Debug\game.over.resources
